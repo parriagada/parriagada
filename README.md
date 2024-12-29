@@ -1,19 +1,36 @@
 # Hello! 👋
 
-**A final-year Computer Science student** with a passion for creating technological solutions that positively impact people's lives. 🚀
+I'm a recent Computer Science graduate from IP INACAP (Chile) 🎓 with a passion for web development, systems management, and data science. I'm eager to learn and grow in these areas, and I'm currently focusing on expanding my skillset and knowledge.
 
-Currently, I'm developing a mobile app to help university students **fight procrastination and its consequences**. 💪 This project allows me to combine my development skills with my interest in student well-being.
+## My Learning Journey 🚀
 
-## My tech stack:
+I'm currently dedicated to a comprehensive self-study plan, here's a glimpse of my learning focus:
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Web Development:**
 
-## Beyond the code:
+* **Deep Dive into MERN:**  Building upon my existing experience, I'm mastering advanced React, Node.js, and MongoDB techniques. This includes exploring areas like performance optimization, API development, and database management.
+* **Next.js:**  I'm learning to build performant and scalable web applications with Next.js, focusing on server-side rendering, optimization, and deployment best practices.
+* **GraphQL:**  Exploring this query language for APIs to enhance my ability to efficiently fetch and manage data in modern web applications.
+* **TypeScript:**  Improving code quality and maintainability by learning TypeScript and its advanced features, including static typing and object-oriented programming concepts.
 
-When I'm not coding, you can find me on the volleyball court 🏐. I love this sport and play it regularly!
+**Systems Management:**
 
-## Connect with me!
+* **Linux Server Administration:**  Gaining proficiency in Linux server management, including command-line operations, user and permission management, and essential administrative tasks.
+* **Networking and Cybersecurity:**  Expanding my knowledge of networking fundamentals, security threats, and best practices for protecting information systems.
+* **DevOps:**  Exploring DevOps principles and tools to automate application deployment, management, and monitoring.
 
-I'm always open to collaborating on interesting projects and learning from other developers. Feel free to contact me if you have any questions or proposals. 😊
+**Data Science:**
+
+* **Python for Data Science:**  Mastering Python and its libraries (Pandas, NumPy, Scikit-learn) for data analysis and machine learning.
+* **Data Analysis and Visualization:**  Learning to analyze data, extract insights, and create compelling visualizations to communicate findings effectively.
+* **Machine Learning:**  Exploring machine learning algorithms, predictive modeling, and model evaluation techniques.
+
+## Beyond the Curriculum 🏐
+
+I'm an avid volleyball player! When I'm not coding or studying, you can find me on the court. 
+
+## Let's Connect! 🤝
+
+I'm always eager to collaborate on exciting projects and connect with fellow developers. Feel free to reach out! 😊
 
 ## Thanks for visiting my profile! 😄
